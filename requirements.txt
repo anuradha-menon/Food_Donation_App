@@ -3,3 +3,4 @@ pandas
 plotly
 matplotlib
 seaborn
+psycopg2-binary
